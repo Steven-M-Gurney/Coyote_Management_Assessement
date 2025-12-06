@@ -4,7 +4,7 @@
 
 ### Manuscript: Airfield Operations – Wildlife Division, Special Publication No. 25-01. Wayne County Airport Authority, Detroit, MI, USA.
 
-### Censored manuscript available here: [![DOI](https://zenodo.org/badge/678437269.svg)](https://doi.org/10.5281/zenodo.17558721)
+### Censored manuscript available here: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17842930.svg)](https://doi.org/10.5281/zenodo.17842930)
 
 ### Data: Most data are security sensitive and housed with the Wildlife Division's special-publication repository.
 
